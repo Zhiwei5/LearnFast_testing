@@ -11,9 +11,7 @@ Welcome to LearnFast_testing's documentation!
    :caption: Contents:
 
    list_module
-   test_sum_list
-   test_max_difference
-   test_min_max_list
+   tests
 
 
 
